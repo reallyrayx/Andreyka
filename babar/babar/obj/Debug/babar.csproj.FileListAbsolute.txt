@@ -1,0 +1,6 @@
+C:\Users\student410\Desktop\789\babar\babar\bin\Debug\babar.exe.config
+C:\Users\student410\Desktop\789\babar\babar\bin\Debug\babar.exe
+C:\Users\student410\Desktop\789\babar\babar\bin\Debug\babar.pdb
+C:\Users\student410\Desktop\789\babar\babar\obj\Debug\babar.csprojResolveAssemblyReference.cache
+C:\Users\student410\Desktop\789\babar\babar\obj\Debug\babar.exe
+C:\Users\student410\Desktop\789\babar\babar\obj\Debug\babar.pdb
